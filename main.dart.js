@@ -55849,7 +55849,7 @@ G(){return"CardStatus."+this.b}}
 A.hA.prototype={
 FC(){var s,r,q,p=this
 B.b.J(p.b)
-for(;s=p.b,s.length<10;){r="/images/"+(B.cx.q6(200)+1)+".png"
+for(;s=p.b,s.length<10;){r="assets/images/"+(B.cx.q6(200)+1)+".png"
 if(!B.b.u(p.b,r))B.b.D(p.b,r)}q=A.af(s).h("bZ<1>")
 p.b=A.ah(new A.bZ(s,q),!0,q.h("aY.E"))
 p.az()},
